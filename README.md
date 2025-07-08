@@ -1,4 +1,4 @@
-# fleet-telemetrics-analysis
+# Fleet-Telemetrics-Analysis
 Project Overview
 This project provides an end-to-end analytics solution for a fleet of over 50 vehicles, combining trip data, cost modeling, and interactive dashboards. It simulates real-world fleet operations using synthetic data for vehicles, drivers, financials, and trip logs, enriched with real-world reference data such as fuel prices, road coordinates, and market-based operational costs.
 
